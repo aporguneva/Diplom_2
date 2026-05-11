@@ -1,0 +1,5 @@
+pytest
+requests
+Faker
+python-dotenv
+allure-pytest
